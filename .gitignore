@@ -1,0 +1,14 @@
+# -----
+.idea
+.gradle
+/android/contrib/build/
+/android/contrib/ffmpeg-arm64/
+/android/contrib/ffmpeg-armv7a/
+/android/contrib/ffmpeg-x86/
+/android/contrib/ffmpeg-x86_64/
+/android/contrib/openssl-arm64/
+/android/contrib/openssl-armv7a/
+/android/contrib/openssl-x86/
+/android/contrib/openssl-x86_64/
+/extra/ffmpeg/
+/extra/openssl/
